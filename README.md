@@ -4,7 +4,7 @@
 
 This work explores the evolution and regional diversity of Rap lyrics, a genre deeply rooted in lyricism and expressive storytelling. As Rap has grown in popularity, debates have emerged about whether its themes have devolved—focusing more on materialism, drugs, and violence—or remained fundamentally the same. The study analyzes a large corpus of lyrics using advanced natural language processing techniques, including coreference resolution, POS tagging, and NER with fine-tuned BERT models. Regional and temporal variations are examined through PCA visualization of NER embeddings and BERTopic-based topic modeling, offering insights into how Rap lyrics have changed over time and across U.S. regions.
 
-For an in-detail description and analysis of the work done please view the report "Evolution And Geography of Hip Hop".
+For an in-detail description and analysis of the work done please view the report ** "Evolution And Geography of Hip Hop" ** in the repository.
 
 ### The Data:
 
